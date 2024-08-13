@@ -1,5 +1,6 @@
 package desafio_dio_banco;
 
+// Classe filha
 public class ContaPoupanca extends Conta {
 
 	public ContaPoupanca(Cliente cliente) {

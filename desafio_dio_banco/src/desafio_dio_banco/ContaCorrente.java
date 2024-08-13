@@ -1,5 +1,6 @@
 package desafio_dio_banco;
 
+//Classe filha
 public class ContaCorrente extends Conta {
 
 	public ContaCorrente(Cliente cliente) {

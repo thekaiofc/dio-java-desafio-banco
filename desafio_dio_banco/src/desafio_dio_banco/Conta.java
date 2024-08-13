@@ -1,6 +1,8 @@
 package desafio_dio_banco;
 
 public abstract class Conta implements IConta {
+	
+	//Classe mãe
 
 	private static final int AGENCIA_PADRAO = 0001;
 	private static int SEQUENCIAL = 1;
